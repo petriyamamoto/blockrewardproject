@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c22d26cb.css",
-    "main.js": "/static/js/main.59db3473.js",
+    "main.js": "/static/js/main.e4a79f69.js",
     "static/media/cards.png": "/static/media/cards.47d0cd328b003d4c4462.png",
     "static/media/member2.png": "/static/media/member2.176e98e20db04bf36171.png",
     "static/media/Membership_overview1.jpg": "/static/media/Membership_overview1.53ec2a097fc219633b6d.jpg",
@@ -11,16 +11,19 @@
     "static/media/CBDPlus_Banner_productsite.jpg": "/static/media/CBDPlus_Banner_productsite.bc545b4d6d50a43ce950.jpg",
     "static/media/BRbanner_overview1 Kopie1.jpg": "/static/media/BRbanner_overview1 Kopie1.9f1e628f7a015b567abe.jpg",
     "static/media/222.jpg": "/static/media/222.525460c216f7ec36284c.jpg",
+    "static/media/membership2.jpg": "/static/media/membership2.525460c216f7ec36284c.jpg",
     "static/media/333.jpg": "/static/media/333.e14179a52fda791e1caa.jpg",
+    "static/media/membership1.jpg": "/static/media/membership1.e14179a52fda791e1caa.jpg",
     "static/media/logo-dark.png": "/static/media/logo-dark.8cc00adec88a57696a14.png",
     "static/media/111.jpg": "/static/media/111.661492b9a9f6ee999083.jpg",
+    "static/media/membership3.jpg": "/static/media/membership3.661492b9a9f6ee999083.jpg",
     "static/media/logo.png": "/static/media/logo.d445409eabc0b6afee7f.png",
     "index.html": "/index.html",
     "main.c22d26cb.css.map": "/static/css/main.c22d26cb.css.map",
-    "main.59db3473.js.map": "/static/js/main.59db3473.js.map"
+    "main.e4a79f69.js.map": "/static/js/main.e4a79f69.js.map"
   },
   "entrypoints": [
     "static/css/main.c22d26cb.css",
-    "static/js/main.59db3473.js"
+    "static/js/main.e4a79f69.js"
   ]
 }
